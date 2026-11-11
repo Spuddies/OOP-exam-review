@@ -19,5 +19,6 @@ public class Workshop {
         Set<String> ID = new HashSet<String>();
         int Accepted, Rejeted;
 
+
     }
 }
