@@ -1,4 +1,4 @@
-
+//Alan Kelly
 package ie.atu.oop.week1;
 
 import java.util.HashSet;
