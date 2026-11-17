@@ -4,13 +4,17 @@
 
 ### Task 1 — /40
 **My mark:**
-
+40/40
 **Why I awarded this mark:**
+To my understanding I completed everything task 1 asked for I was missing setters and getter but i dont know where to deduct marks for that or if to do so and if they were I would deduct 5-10 marks 
+
 
 ### Task 2 — /40
 **My mark:**
+5/40
 
 **Why I awarded this mark:**
+the registration loop was just in main not in a method that gets called and it only had partial functionality and was missing validation
 
 ### Task 3 — /20
 **My mark:**
